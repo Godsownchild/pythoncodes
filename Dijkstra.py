@@ -1,4 +1,4 @@
-print "NAME :AKINKUOTU MERCY     MATRIC NUMBER                       CSC/13/4976"
+
 import sys
 class Vertex:
     def __init__(self, node):
